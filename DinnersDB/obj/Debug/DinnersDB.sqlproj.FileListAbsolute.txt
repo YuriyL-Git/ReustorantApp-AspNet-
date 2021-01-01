@@ -1,0 +1,5 @@
+C:\GitRepository\ReustorantApp(AspNet)\DinnersDB\bin\Debug\DinnersDB.dacpac
+C:\GitRepository\ReustorantApp(AspNet)\DinnersDB\obj\Debug\DinnersDB.dll
+C:\GitRepository\ReustorantApp(AspNet)\DinnersDB\obj\Debug\DinnersDB.pdb
+C:\GitRepository\ReustorantApp(AspNet)\DinnersDB\bin\Debug\DinnersDB.dll
+C:\GitRepository\ReustorantApp(AspNet)\DinnersDB\bin\Debug\DinnersDB.pdb
